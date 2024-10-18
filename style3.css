@@ -25,10 +25,12 @@
 
 .content h1 {
   color: black;
+  font-family: "Gothic A1";
 }
 
 .content p {
   padding: 10px;
+  font-family: "Gothic A1";
 }
 
 .content ul li {
@@ -47,6 +49,7 @@
   color: black;
   cursor: pointer;
   position: relative;
+  font-family: "Gothic A1";
 }
 
 .content ul li button:hover {
@@ -64,6 +67,7 @@
   border-radius: 25px;
   cursor: pointer;
   position: relative;
+  font-family: "Gothic A1";
 }
 
 .content button:hover {

@@ -31,6 +31,7 @@
   text-decoration: none;
   color: white;
   text-transform: uppercase;
+  font-family: "Josefin Sans"
 }
 
 .nav img {
@@ -56,6 +57,7 @@
   text-align: center;
   margin-top: 20px;
   font-size: 40px;
+  font-family: "Luxurious Roman"
 }
 
 .content button {
@@ -82,7 +84,7 @@
 }
 
 .sale {
-  background: lightgrey;
+  background: whitesmoke;
   width: 100%;
   height: 100vh;
 }
@@ -91,12 +93,14 @@
   width: 500px;
   height: 550px;
   float: left;
-  padding: 80px;
+  margin-top: 30px;
+  margin-left: 50px;
 }
 
 .pic2 img {
   width: 500px;
   height: 550px;
   float: right;
-  padding: 80px;
+  margin-top: 30px;
+  margin-right: 50px;
 }
